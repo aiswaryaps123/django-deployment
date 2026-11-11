@@ -1,0 +1,10 @@
+django-env/
+django-env-old/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+*.log
+staticfiles/
+.idea/
+.vscode/
