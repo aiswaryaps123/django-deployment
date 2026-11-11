@@ -202,13 +202,11 @@ http://<SERVER-IP>/
 
 ## 📸 Application Preview
 
+
 The deployed Django application displays:
 
-**Welcome to My First Django Application!**
+<img width="1012" height="556" alt="image" src="https://github.com/user-attachments/assets/b9d2f9fb-d1c6-403d-bda7-31c58d3f9d51" />
 
-**Successfully Deployed on Linux Server**
-
-Powered by Python and Django.
 
 <!-- Add deployment screenshot here -->
 
@@ -230,8 +228,6 @@ Through this project, I gained hands-on experience in:
 ## 👩‍💻 Author
 
 **Aiswarya PS**
-
-B.Tech Computer Science and Engineering
 
 Interested in Linux Administration, Cloud Computing, DevOps, and Infrastructure Management.
 
